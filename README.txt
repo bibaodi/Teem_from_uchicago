@@ -1,4 +1,4 @@
-clone from: 
+clone from [Gordon Kindlmann in uchicao](https://people.cs.uchicago.edu/~glk/software/): 
 `svn co https://svn.code.sf.net/p/teem/code/teem/trunk teem`
 used in 3d Slicer vtkTeem; so upload here. eton@231102.
 
